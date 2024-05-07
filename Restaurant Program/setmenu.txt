@@ -1,0 +1,9 @@
+--------------------------------------------------------
+                       SET MEALS
+--------------------------------------------------------
+
+301. Wanton Egg Noodle and Soft Drink      ==>RM 14.00
+302. Nasi Lemak w Fried Chicken and Milo   ==>RM 25.00
+303. Triple Decker Burger and Beef Nachos  ==>RM 35.00
+304. Signature Chicken Rice w Soft Tacos   ==>RM 29.00
+305. Ayam Kunyit w Rice and Teh O          ==>RM 18.00

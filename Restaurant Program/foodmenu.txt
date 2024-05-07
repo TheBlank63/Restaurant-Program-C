@@ -1,0 +1,21 @@
+---------------------------------------------------
+                 FOOD MENU                         
+---------------------------------------------------
+
+--------Western Cuisine--------
+101. Triple Decker Burger               ==> RM23.90
+102. Soft Tacos                         ==> RM17.90
+103. Chicken Buritto                    ==> RM19.00
+104. Beef Nachos                        ==> RM17.00
+
+--------Chinese Cuisine--------
+105. Signature Chicken Rice             ==> RM14.90
+106. Wanton Egg Noodle                  ==> RM12.90
+107. Sweet and Sour Chicken w Rice      ==> RM14.90
+108. Beef Noodle Soup                   ==> RM12.90
+
+--------Malay Cuisine----------
+109. Nasi Lemak w Fried Chicken         ==> RM23.90
+110. Nasi Kerabu                        ==> RM17.90
+111. Ayam Masak Merah w Rice            ==> RM17.90
+112. Ayam Kunyit w Rice                 ==> RM17.90

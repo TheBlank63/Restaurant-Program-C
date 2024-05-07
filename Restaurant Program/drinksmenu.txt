@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+                            DRINKS MENU
+----------------------------------------------------------------
+
+                                           --Hot--      --Ice--
+201.  Teh Tarik                        ==> RM 03.00     RM 03.90
+202.  Teh O                            ==> RM 02.50     RM 03.40
+203.  Sirap                            ==> RM 04.00     RM 04.90
+204.  Sirap Bandung                    ==> RM 05.50     RM 06.40
+205.  Milo                             ==> RM 03.00     RM 03.90
+206.  Barli                            ==> RM 03.00     RM 03.90
+207.  Orange Juice (RoomTemp/Cold)     ==> RM 07.00     RM 07.90
+208.  Watermelon Juice (RoomTemp/Cold) ==> RM 07.00     RM 07.90
+209.  Apple Juice (RoomTemp/Cold)      ==> RM 07.00     RM 07.90
+210.  Soft Drink (RoomTemp/Cold)       ==> RM 02.50     RM 03.40
+211.  Mineral Water (RoomTemp/Cold)    ==> RM 01.90     RM 02.80
